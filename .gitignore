@@ -1,0 +1,5 @@
+llm-cost
+*.exe
+*.db
+dist/
+.DS_Store
